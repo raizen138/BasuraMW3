@@ -1,12 +1,13 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * Contador de Puntos MW3
+ * @author Ruben Hernandez
+ * @version 1.0
+ */
 public class CorreWillyCorre {
-	/**
-	 * Contador de Puntos MW3
-	 * @author Ruben Hernandez
-	 * @version 1.0
-	 */
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
